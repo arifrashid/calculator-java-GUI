@@ -1,4 +1,5 @@
-# calculator-java-GUI
+# Java Calculator GUI
+
 GUI Java calculator with twenty buttons: 10 number buttons and 10 function buttons.
 
 
